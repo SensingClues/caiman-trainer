@@ -1,0 +1,1 @@
+# kaggle-iwildcam-2020-fgvc7
